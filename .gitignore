@@ -1,0 +1,41 @@
+# Visual Studio
+*.obj
+*.user
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.sdf
+ipch/
+obj/
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+
+#Tooling
+_ReSharper*/
+*.resharper.user
+[Tt]est[Rr]esult*
+
+#Micosoft Fake Assemblies
+FakesAssemblies*/
+
+#OS junk files
+Thumbs.db
+*.DS_Store
+
+packages/
+.idea/
+*.patch
